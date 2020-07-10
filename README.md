@@ -18,6 +18,4 @@ Besides that, I'm anarcho-capitalist, Bitcoin lover, investor, entrepreneur and 
 
 Follow me! 😊
 
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=guitexa.visitor-badge">
- <p/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=guitexa.visitor-badge">
