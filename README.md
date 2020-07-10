@@ -6,12 +6,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-7840B7?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guitexa/)](https://www.instagram.com/guitexa/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-31589B?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/guitexa/)](https://www.facebook.com/guitexa/)
 
-## Hi everyone 👋
+## Hi! Welcome to my Github 👋
 
 I'm Guilherme Teixeira, a student who wants to become a full stack developer.
 
-I'm studying Node.js, ReactJS and React Native at Rocketseat.
+Currently I'm studying Node.js, ReactJS and React Native at Rocketseat.
 
-I'm entrepreneur and Civil Engineer.
+My goal is to develop an app project for my own company.
 
-I'm developing a project for my own company.
+Besides that, I'm anarcho-capitalist, Bitcoin lover, investor, entrepreneur and Civil Engineer.
+
+Follow me! 😊
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=guitexa.visitor-badge">
+ <p/>
