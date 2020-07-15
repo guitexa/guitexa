@@ -17,5 +17,3 @@ My goal is to develop an app project for my own company.
 Besides that, I'm anarcho-capitalist, Bitcoin lover, investor, entrepreneur and Civil Engineer.
 
 Follow me! 😊
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=guitexa.visitor-badge">
