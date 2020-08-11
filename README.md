@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-7840B7?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guitexa/)](https://www.instagram.com/guitexa/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-31589B?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/guitexa/)](https://www.facebook.com/guitexa/)
 
-## Hi! Welcome to my Github 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my Github
 
 I'm Guilherme Teixeira, a student who wants to become a full stack developer.
 
@@ -17,3 +17,5 @@ My goal is to develop an app project for my own company.
 Besides that, I'm anarcho-capitalist, Bitcoin lover, investor, entrepreneur and Civil Engineer.
 
 Follow me! 😊
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=guitexa&show_icons=true&theme=dark" alt="guitexa" /> </p>
