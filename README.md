@@ -10,11 +10,11 @@
 
 I'm Guilherme Teixeira, a student who wants to become a full stack developer.
 
-Currently I'm studying Node.js, ReactJS and React Native at Rocketseat.
+FullStack Junior Developer Node.js | ReactJS | React Native
 
-My goal is to develop an app project for my own company.
+Now I'm developing an app for my own company
 
-Besides that, I'm anarcho-capitalist, Bitcoin lover, investor, entrepreneur and Civil Engineer.
+Besides that, I'm anarcho-capitalist, Bitcoin lover, investor, entrepreneur and Civil Engineer
 
 Follow me! 😊
 
