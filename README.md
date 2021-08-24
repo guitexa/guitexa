@@ -14,7 +14,7 @@ FullStack Junior Developer Node.js | ReactJS | React Native
 
 Now I'm developing an app for my own company
 
-Besides that, I'm anarcho-capitalist, Bitcoin lover, investor, entrepreneur and Civil Engineer
+Besides that, I'm anarcho-capitalist, long term value investor, financial influencer, entrepreneur and Civil Engineer
 
 Follow me! 😊
 
